@@ -2,10 +2,12 @@
 package edu.atria.b94java.first;
 
 public class Base {
-	private int variablePrivate =23;
-	int variableDefault=20;
-	protected int variableProctected=30;
-	public int variablePublic=50;
+	// private, public, protected, default
+	
+	private int variablePrivate = 23;
+	int variableDefault = 20;
+	protected int variableProtected = 30;
+	public int variablePublic = 50;
 	
 
 }
