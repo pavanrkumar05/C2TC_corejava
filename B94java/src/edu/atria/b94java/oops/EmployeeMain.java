@@ -1,5 +1,5 @@
 package edu.atria.b94java.oops;
-import java.util.Scanner;
+//import java.util.Scanner;
 public class EmployeeMain {
 	public static void main(String[] args) {
 		// creation of scanner class
